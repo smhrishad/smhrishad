@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smhrishad
+j- 👋 Hi, I’m @smhrishad
 - 👀 I’m interested in ...Marketing
 - 🌱 I’m currently learning ...C and pythone
 - 💞️ I’m looking to collaborate on ...
